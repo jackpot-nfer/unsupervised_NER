@@ -4,7 +4,7 @@ Prototype unsupervised implementation NER using BERT's MLM and wrapper around [D
 
 [Medium post describing this method](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)
 
-![Image from Medium post on unsupervised NER ](NER.png)
+![Image from Medium post on unsupervised NER ](./assets/NER.png)
 
 
 # Installation 
@@ -19,7 +19,7 @@ Confirm installation works by
     
    The output POS file should contain
   
-  ![The output POS file should contain ](POS.png)
+  ![The output POS file should contain ](./assets/POS.png)
   
  
  **2) Install BERT descriptor service using https://github.com/ajitrajasekharan/bert_descriptors.git**
@@ -30,7 +30,7 @@ Confirm installation works by
    
    The output DES file should contain
    
- ![The output POS file should contain ](DES.png)
+ ![The output POS file should contain ](./assets/DES.png)
  
  
 
